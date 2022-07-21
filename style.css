@@ -15,7 +15,7 @@ body {
       rgba(51, 57, 76, 0.1),
       rgba(51, 57, 76, 0.6)
     ),
-    url("assets/bg.png");
+    url("./assets/bg.png");
   background-blend-mode: darken;
   background: #303547;
   overflow: hidden;
